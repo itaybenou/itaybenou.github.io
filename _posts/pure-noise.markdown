@@ -10,4 +10,3 @@ venue: "ICML, 2022"
 arxiv: https://arxiv.org/abs/2308.04571
 code: https://github.com/shiranzada/pure-noise
 ---
-We present a highly effective method for imbalanced classification: training on pure noise images in addition to natural images. By incorporating our Distribution-Aware Routing Batch Normalization layer (DAR-BN), we show that this encourages generalization and suppresses overfitting
