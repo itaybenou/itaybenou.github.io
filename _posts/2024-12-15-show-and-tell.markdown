@@ -6,5 +6,6 @@ image: /images/show_and_tell.png
 categories: [research]
 author: "Itay Benou"
 authors: "<strong>Itay Benou</strong>, Tammy Riklin-Raviv"
+venue: "Preprint"
 code: https://github.com/itaybenou/show-and-tell
 ---
