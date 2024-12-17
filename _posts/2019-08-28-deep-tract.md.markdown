@@ -3,7 +3,7 @@ layout: post
 title:  "Deeptract: A probabilistic deep learning framework for white matter fiber tractography‏"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/DeepTract3.png
-categories: research
+categories: [research]
 author: "Itay Benou"
 authors: "<strong>Itay Benou</strong>, Tammy Riklin-Raviv"
 venue: "MICCAI, 2019"
