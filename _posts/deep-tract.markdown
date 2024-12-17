@@ -7,7 +7,7 @@ categories: research
 author: "Itay Benou"
 authors: "<strong>Itay Benou</strong>, Tammy Riklin-Raviv"
 venue: "MICCAI"
-arxiv: https://arxiv.org/abs/1812.0512)
+arxiv: https://arxiv.org/abs/1812.0512
 code:https://github.com/itaybenou/DeepTract
 ---
 We present a deep-learning framework for probabilistic tractography using recurrent neural nets.
