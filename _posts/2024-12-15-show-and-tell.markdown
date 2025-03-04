@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models‏"
-date:   2025-06-11 22:21:59 +00:00
+date:   2025-01-01 22:21:59 +00:00
 image: /images/show_and_tell.png
 categories: [research]
 author: "Itay Benou"
