@@ -7,6 +7,6 @@ categories: [research]
 author: "Itay Benou"
 authors: "Shiran Zada, <strong>Itay Benou</strong>, Michal Irani"
 venue: "ICML"
-arxiv: https://arxiv.org/abs/2308.04571
+paper: https://arxiv.org/abs/2308.04571
 code: https://github.com/shiranzada/pure-noise
 ---
