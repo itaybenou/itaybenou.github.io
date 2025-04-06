@@ -7,6 +7,7 @@ categories: [research]
 author: "Itay Benou"
 authors: "<strong>Itay Benou</strong>, Tammy Riklin-Raviv"
 venue: "CVPR"
+presentation: "Highlight"
 project_page: https://itaybenou.github.io/show-and-tell/
 paper: https://arxiv.org/abs/2502.20134
 code: https://github.com/itaybenou/show-and-tell
