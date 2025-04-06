@@ -78,6 +78,9 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.presentation_type %}
+              &nbsp;({{ post.presentation_type }})
+              {% endif %}
               <br>
               {% if post.project_page %}
               <a href="{{post.project_page}}">project page</a> /
