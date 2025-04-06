@@ -12,10 +12,14 @@ layout: default
   <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3>{{post.title}}</h3>
     <br> 
-    {{post.authors}} 
-    <br> 
-    <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}{% if post.presentation_type %} <em>({{post.presentation_type}})</em>{% endif %} 
-    <br> 
+    {{post.authors}}
+    
+    <br>
+    <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+    {% if post.presentation_type %}
+    &nbsp;({{ post.presentation_type }})
+    {% endif %}
+    <br>
     {% if post.arxiv %}
     <a href="{{post.arxiv}}">arxiv</a> /
     {% endif %}
