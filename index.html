@@ -14,7 +14,7 @@ layout: default
     <br> 
     {{post.authors}} 
     <br> 
-    <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}{% if post.presentation_type %} <em>({{post.presentation}})</em>{% endif %} 
+    <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}{% if post.presentation_type %} <em>({{post.presentation_type}})</em>{% endif %} 
     <br> 
     {% if post.arxiv %}
     <a href="{{post.arxiv}}">arxiv</a> /
