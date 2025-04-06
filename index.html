@@ -16,6 +16,9 @@ layout: default
 
     <br>
     <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+    {% if post.presentation %}
+    &nbsp;({{ post.presentation }})
+    {% endif %}
     <br>
     {% if post.arxiv %}
     <a href="{{post.arxiv}}">arxiv</a> /
